@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scprits\MapManager.cs">
+    <Files>
+      <File FileName="Assets\Scprits\MapManager.cs" Line="98" Column="4" />
+      <File FileName="Assets\Scprits\GameManager.cs" Line="64" Column="1" />
+      <File FileName="Assets\Scprits\Wall.cs" Line="5" Column="36" />
+      <File FileName="Assets\Enemy.cs" Line="29" Column="47" />
+      <File FileName="Assets\Scprits\Player.cs" Line="78" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

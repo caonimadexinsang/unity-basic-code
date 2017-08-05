@@ -1,0 +1,30 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Microsoft Basic Render Driver (ID=0x8c)
+    Vendor:   Microsoft
+    VRAM:     4066 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.074 seconds
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\unitylearn\playaroll\builds\roll a ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x1200 64Hz; virtual: 1600x1200 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.024963 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c28 -> priority: 1 
+  Thread -> id: 1c78 -> priority: 1 
